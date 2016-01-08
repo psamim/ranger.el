@@ -112,7 +112,7 @@ paste.  The latter binding will overwrite existing files.
  `B`           | show bookmark prompt
  `D`           | delete the selected file
  `R`           | rename/move the selected file
- ````          | goto bookmark
+ ```           | goto bookmark
  `m`           | set bookmark
  `[`           | previous parent directory
  `]`           | next parent directory
